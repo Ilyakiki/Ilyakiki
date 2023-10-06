@@ -5,8 +5,7 @@
   <a href=""><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
   <a href="https://spb.hh.ru/resume/45e87dfbff0b6775b80039ed1f4d7558306462"><img src="https://img.shields.io/badge/Head Hunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH Badge"/></a>
   <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hi, I'm Ilyakiki 👋
   </h1>
 </div>
 
