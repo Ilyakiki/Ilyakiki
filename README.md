@@ -11,6 +11,10 @@
 <div>
   Я Backend Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
+
+- :telescope: Я занимаюсь внутреннего интерфейса для создания веб-приложений.
+
+- :zap: В свободное время решаю задачи на codewars.
 <!--
 **Ilyakiki/Ilyakiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
