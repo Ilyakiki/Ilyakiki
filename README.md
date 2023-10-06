@@ -25,15 +25,17 @@
 ### :hammer_and_wrench: Languages and Tools :
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)
 ![Django](https://img.shields.io/badge/Django-316192?style=for-the-badge&logo=django)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23593d88.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-%2320232a.svg?style=for-the-badge&logo=GIT&logoColor=%2361DAFB)
 ![GITHUB](https://img.shields.io/badge/GITHUB-%23593d88.svg?style=for-the-badge&logo=GITHUB&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS&logoColor=white)
-![Django Rest Framework](https://img.shields.io/badge/DRF-%23E0234E.svg?style=for-the-badge&logo=DjangoRestFramework&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-%2338B2AC.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%238DD6F9.svg?style=for-the-badge&logo=json&logoColor=black)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ---
 
