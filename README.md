@@ -4,9 +4,9 @@
     Приветствую, Я Ilyakiki 👋
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <a href="https://www.codewars.com/users/Ilyakiki"><img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/></a>
   <a href="https://t.me/@kendrik12"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
-  <a href="https://spb.hh.ru/resume/45e87dfbff0b6775b80039ed1f4d7558306462"><img src="https://img.shields.io/badge/Head Hunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH Badge"/></a>
+  <a href="https://www.codewars.com/users/Ilyakiki"><img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/></a>
+  <a href="https://ru.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F-%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-90a4b5295"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
 ---
