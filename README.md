@@ -36,6 +36,7 @@
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%238DD6F9.svg?style=for-the-badge&logo=json&logoColor=black)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![MongoDB](https://img.shields.io/badge/mONGOdb-%2338B2AC.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 ---
 
